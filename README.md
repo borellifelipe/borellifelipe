@@ -1,16 +1,37 @@
-## Hi there 👋
+## Olá, eu sou o Felipe Borelli 👋
 
-<!--
-**borellifelipe/borellifelipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Hoje trabalho na Empresa Saipos
+- 🌱 Estudo Ciência da Computação
 
-Here are some ideas to get you started:
+### Minhas Estatísticas
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=borellifelipe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true )](https://felipe-borelli.netlify.app/ )
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=borellifelipe&layout=compact&langs_count=16&theme=dracula )](https://felipe-borelli.netlify.app/ )
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Onde me encontrar
+- **LinkedIn:** [linkedin.com/in/felipe-borelli-19842a213](https://linkedin.com/in/felipe-borelli-19842a213 )
+- **Portfólio:** [https://felipe-borelli.netlify.app/](https://felipe-borelli.netlify.app/ )
+
+
+
+
+## Olá, eu sou o Felipe Borelli 👋
+
+- 💻 Hoje trabalho na Empresa Saipos
+- 🌱 Estudo Ciência da Computação
+
+### Minhas Estatísticas
+
+<table>
+  <tr>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=borellifelipe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+    </td>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borellifelipe&layout=compact&langs_count=16&theme=dracula" />
+    </td>
+  </tr>
+</table>
+
+### Onde me encontrar
+- **LinkedIn:** [linkedin.com/in/felipe-borelli-19842a213](https://linkedin.com/in/felipe-borelli-19842a213 )
+- **Portfólio:** [https://felipe-borelli.netlify.app/](https://felipe-borelli.netlify.app/ )
