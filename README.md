@@ -38,7 +38,7 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
 <p align="left">
   <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=borellifelipe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
