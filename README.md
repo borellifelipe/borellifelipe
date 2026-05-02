@@ -56,9 +56,11 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-anuraghazra.vercel.app/api?username=borellifelipe&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-anuraghazra.vercel.app/api/top-langs/?username=borellifelipe&layout=compact&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=borellifelipe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borellifelipe&layout=compact&theme=tokyonight" />
 </p>
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/borellifelipe/borellifelipe/output/github-contribution-grid-snake-dark.svg">
