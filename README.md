@@ -1,60 +1,23 @@
-## Olá, eu sou o Felipe Borelli 👋
+# Hi 👋, I'm Felipe Borelli 👋
 
 - 💻 Hoje trabalho na Empresa Saipos
-- 🌱 Estudo Ciência da Computação
-
-### Minhas Estatísticas
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=borellifelipe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true )](https://felipe-borelli.netlify.app/ )
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=borellifelipe&layout=compact&langs_count=16&theme=dracula )](https://felipe-borelli.netlify.app/ )
-
-### Onde me encontrar
-- **LinkedIn:** [linkedin.com/in/felipe-borelli-19842a213](https://linkedin.com/in/felipe-borelli-19842a213 )
-- **Portfólio:** [https://felipe-borelli.netlify.app/](https://felipe-borelli.netlify.app/ )
-
-
-
-
-# Hi 👋, I'm Herbert Souza
-
-🚀 **Senior Software Engineer | JavaScript & .NET Specialist**  
-🇧🇷 Brazil
-
-I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
-I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
-
-I also create content and share knowledge on **software development, SaaS, and tech entrepreneurship**.
+- 🧑‍🎓 Estudo Ciência da Computação
 
 ---
 
 ## 🌐 Where to find me
 
 <p align="left">
-  <a href="https://github.com/herbertcarnaubadesouza">
-    <img src="https://img.shields.io/badge/GitHub-HERBERTCARNAUBADESOUZA-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/borellifelipe" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://instagram.com/oreidosites">
-    <img src="https://img.shields.io/badge/Instagram-@OREIDOSITES-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://www.linkedin.com/in/felipe-borelli-19842a213" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.tiktok.com/@oreidosites">
-    <img src="https://img.shields.io/badge/TikTok-@OREIDOSITES-000000?style=for-the-badge&logo=tiktok" />
-  </a>
-  <a href="https://www.youtube.com/@oreidosites">
-    <img src="https://img.shields.io/badge/YouTube-O%20REI%20DO%20SITES-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <a href="https://felipe-borelli.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
-
----
-
-## 🧠 What I do
-
--   🏗️ SaaS & High-scale systems
--   ⚡ Performance optimization
--   🧩 Clean architecture & system design
--   🔐 Secure APIs & authentication
--   💳 Payments, subscriptions & business logic
--   🤖 Automation & integrations
--   📊 Dashboards & analytics
--   🎓 Teaching & mentoring developers
 
 ---
 
@@ -67,7 +30,7 @@ I also create content and share knowledge on **software development, SaaS, and t
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
-![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components)
+![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components)``
 
 ### Backend
 
@@ -89,20 +52,10 @@ I also create content and share knowledge on **software development, SaaS, and t
 
 ---
 
-## 📊 GitHub Stats
+
+## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=borellifelipe&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borellifelipe&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-anuraghazra.vercel.app/api?username=borellifelipe&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-anuraghazra.vercel.app/api/top-langs/?username=borellifelipe&layout=compact&theme=tokyonight" />
 </p>
-
-
-## 🚀 Philosophy
-
-> _"Code is not just about solving problems.  
-> It's about building solutions that scale, last, and generate real value."_
-
----
-
-⭐ If you like my work, consider starring a repository  
-🤝 Always open to collaborations, partnerships, and cool ideas
