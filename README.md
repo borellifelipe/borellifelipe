@@ -1,7 +1,7 @@
 # Hi 👋, I'm Felipe Borelli 👋
 
 - 💻 Hoje trabalho na Empresa Saipos
-- 🧑‍🎓 Estudo Ciência da Computação
+- 🧑‍🎓 Estudo Ciência da Computação - Anhanguera
 
 ---
 
