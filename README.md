@@ -2,6 +2,7 @@
 
 - 💻 Hoje trabalho na Empresa Saipos
 - 🧑‍🎓 Estudo Ciência da Computação - Anhanguera
+- 📍Mogi das Cruzes - SP
 
 ---
 
